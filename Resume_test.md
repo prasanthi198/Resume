@@ -57,9 +57,9 @@ Detail-oriented Software QA Engineer with end-to-end experience in **manual and 
 ### PhishHaven – Real-time Phishing URL Detection  
 *Dec 2022*
 
-- Developed and tested ensemble ML model (Random Forest + XGBoost) using lexical & HTML features; achieved 98% accuracy / 0.99 F1.  
-- Built REST API using Flask and validated API behavior through **manual & automated API test cases**.
-
+- Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset. 
+- Deployed as Flask-based REST API with URL shortener integration for live testing.
+  
 ### Intrusion Detection on Imbalanced Network Traffic  
 *Jul 2022*
 
