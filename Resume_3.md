@@ -16,11 +16,11 @@ Detail-oriented QA Engineer with **end-to-end ownership of manual and automated 
 | **Domain** | **Proficiencies** |
 |------------|------------------|
 | **QA & Testing** | Manual test strategy, test-case design, exploratory & regression cycles, defect lifecycle (Jira), TestRail, Robot Framework, Selenium, Postman |
-| **Programming / Scripting** | Python, Java, JavaScript, C; REST/Flask API testing |
+| **Programming / Scripting** | Python, Java, JavaScript, C; REST API testing |
 | **Cloud & Virtualization** | AWS, Azure, OpenStack, VMware ESXi & NSX-T |
 | **DevOps & IaC** | Git, Jenkins (basic CI/CD), Terraform |
 | **OS & Containers** | Ubuntu, Rocky Linux, Kubernetes |
-| **Networking** | Cisco CCNA certified, SDN fundamentals, L2/L3 routing |
+| **Networking** | Cisco CCNA certified, L2/L3 routing |
 | **DB / Data** | SQL (basic queries), JSON/YAML test data |
 
 ---
