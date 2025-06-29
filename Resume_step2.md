@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/prasanthi-gannavarapu
 ---
 
 ## PROFESSIONAL SUMMARY  
-Results-driven QA Engineer with 2 + years of experience in **manual testing, automated testing, and quality engineering** for cloud-native networking and security products. Expert in designing **test plans, test cases, regression suites, smoke tests, performance tests, and API tests** within **Agile/Scrum** SDLC. Proven track record of **reducing upgrade downtime 50 %, tripling test coverage, and preventing Sev-1 defect escapes**. Strong hands-on skills with **Python, Robot Framework, Selenium WebDriver, Kubernetes, AWS, Azure, OpenStack, VMware ESXi/NSX-T, Jenkins, Git, Terraform, and Jira**.
+Results-driven QA Engineer with 2 + years of experience in **manual testing, automated testing, and quality engineering** for cloud-native networking and security products. Expert in designing **test plans, test cases, regression suites, performance tests, and API tests** within **Agile/Scrum** SDLC. Proven track record of **reducing upgrade downtime 50 %, tripling test coverage, and preventing Sev-1 defect escapes**. Strong hands-on skills with **Python, Robot Framework, Selenium WebDriver, Kubernetes, AWS, Azure, OpenStack, VMware ESXi/NSX-T, Jenkins, Git, Terraform, and Jira**.
 
 ---
 
