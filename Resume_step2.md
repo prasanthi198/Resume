@@ -60,7 +60,6 @@ Chennai, India | Mar 2023 – Dec 2023
 ## PROJECTS  
 
 **PhishHaven – Real-Time Phishing URL Detector** (Python, ML, Postman)  
-- Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset.  
 - Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset.
   
 **Intrusion Detection on Imbalanced Traffic** (Python, CNN, SVM)  
