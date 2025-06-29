@@ -59,7 +59,7 @@ Chennai, India | Mar 2023 – Dec 2023
 
 ## PROJECTS  
 
-**PhishHaven – Real-Time Phishing URL Detector** (Python, Flask, ML, Postman)  
+**PhishHaven – Real-Time Phishing URL Detector** (Python, ML, Postman)  
 - Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset.  
 - Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset.
   
@@ -73,7 +73,7 @@ Chennai, India | Mar 2023 – Dec 2023
 
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**  
 - Amazon Web Services: **AWS Academy Cloud Foundations**  
-- **Cisco Certified Network Associate (CCNA)** – Routing & Switching  
+- Cisco: **Cisco Certified Network Associate (CCNA)** 
 - Palo Alto Networks / EduSkills: **Cybersecurity Virtual Internship**  
 
 ---
@@ -89,5 +89,5 @@ Chennai, India | Mar 2023 – Dec 2023
 
 **Bachelor of Technology (B.Tech.) – Computer Science & Engineering**  
 RVR & JC College of Engineering, Guntur, India | Jun 2023  
-- Coursework: Data Structures, Algorithms, Artificial Intelligence, Operating Systems, Programming Languages  
+- Coursework: Data Structures, Algorithms, Artificial Intelligence, Operating Systems, Programming Languages
 - Training: Cisco CCNA Networking (Feb 2022 – May 2022)  
