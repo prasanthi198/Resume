@@ -18,7 +18,7 @@ Detail-oriented Software QA Engineer with hands-on experience in test automation
 
 ### Programming & Automation  
 - **Languages**: Python, Java, JavaScript, C  
-- **Frameworks/Tools**: Robot Framework, Selenium, Postman, Flask  
+- **Frameworks/Tools**: Robot Framework, Postman 
 
 ### Cloud, Virtualization & Infrastructure  
 - **Platforms**: AWS, Azure, OpenStack, VMware ESXi, VMware NSX-T  
