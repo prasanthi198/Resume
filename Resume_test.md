@@ -63,8 +63,7 @@ Detail-oriented Software QA Engineer with end-to-end experience in **manual and 
 ### Intrusion Detection on Imbalanced Network Traffic  
 *Jul 2022*
 
-- Built and tuned CNN/SVM models with oversampling; recall increased from 47% → 90%.  
-- Created **test scripts and manually validated predictions** on critical attack vectors from the UNSW-NB15 dataset.
+- Applied DSSTE oversampling + CNN and SVM models to detect anomalies; improved recall for minority class from 47% to 90% using UNSW-NB15 corpus. 
 
 ---
 
