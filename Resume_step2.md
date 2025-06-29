@@ -24,17 +24,17 @@ Results-driven QA Engineer with 2 + years of experience in **manual testing, aut
 
 **Cloud & Virtualization:**  
 - Amazon Web Services (EC2, S3, IAM, VPC), Microsoft Azure, OpenStack, VMware ESXi, VMware NSX-T  
-- Kubernetes, Docker, Helm, ArgoCD  
+- Kubernetes 
 
 **DevOps & Infrastructure as Code:**  
 - Jenkins, Git, GitHub Actions, Terraform, Ansible (basic)  
 
 **Operating Systems & Databases:**  
 - Ubuntu, Rocky Linux, CentOS, Windows  
-- MySQL, PostgreSQL, SQL (basic querying), JSON/YAML XML data formats  
+- MySQL, SQL (basic querying), JSON/YAML XML data formats  
 
 **Networking:**  
-- Cisco CCNA (Routing & Switching), TCP/IP, L2/L3, SDN, 5G SBI, DNS, DHCP, Firewalls  
+- Cisco CCNA (Routing & Switching), TCP/IP, L2/L3, 5G SBI, DNS, DHCP, Firewalls
 
 ---
 
@@ -44,14 +44,14 @@ Results-driven QA Engineer with 2 + years of experience in **manual testing, aut
 Chennai, India | Jan 2024 – Present  
 
 - **Automated Kubernetes Upgrades:** Converted manual 6-hour upgrade runbook into a Python & Robot Framework pipeline; **downtime reduced by 50 %** and **4 engineer-hours saved** per release, enabling weekly release cadence.  
-- **Regression Suite Expansion:** Scaled regression from 15 to 45 automated test cases; **API coverage increased 175 %** and **20 + Sev-1 defects** identified pre-production, improving release quality index to 98 %.  
+- **Regression Suite Expansion:** Scaled regression from 15 to 45 automated test cases; **API coverage increased 175 %** and **20 + P-1 defects** identified pre-production, improving release quality index to 98 %.  
 - **Performance & Scale Testing:** Authored performance test harness in Python for **128-node / 10 Tbps** clusters on AWS and VMware; achieved **0 post-release critical defects** across three major versions.  
 - **Agile Collaboration:** Worked with Developers, Product Owners, and DevOps in two-week Scrum sprints; delivered shippable builds each sprint and maintained **>95 % story acceptance** on first pass.  
 
 ### GIGAMON – Software QA Engineer Intern  
 Chennai, India | Mar 2023 – Dec 2023  
 
-- Executed **manual integration testing** and developed Robot Framework scripts for **5G-SBI micro-services** on OpenStack, ensuring **100 % interoperability** with third-party orchestration platforms.  
+- Executed **manual integration testing** and developed Robot Framework scripts for **5G-SBI** on OpenStack, ensuring **100 % interoperability** with third-party orchestration platforms.  
 - Discovered and logged **25 + P0/P1 defects** in Gigamon Fabric Manager across AWS, VMware, and Azure; automated regression raised nightly pass rate from 65 % to **95 %**.  
 - Implemented **NSX-T fault-tolerance** test suite validating node rediscovery **< 60 seconds**; met carrier-grade SLA for Tier-1 telecom customers.  
 
