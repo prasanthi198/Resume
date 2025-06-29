@@ -45,7 +45,7 @@ Chennai, India | Jan 2024 – Present
 
 - **Automated Kubernetes Upgrades:** Converted manual 6-hour upgrade runbook into a Python & Robot Framework pipeline; **downtime reduced by 50 %** and **4 engineer-hours saved** per release, enabling weekly release cadence.  
 - **Regression Suite Expansion:** Scaled regression from 15 to 45 automated test cases; **API coverage increased 175 %** and **20 + P-1 defects** identified pre-production, improving release quality index to 98 %.  
-- **Performance & Scale Testing:** Authored performance test harness in Python for **128-node / 10 Tbps** clusters on AWS and VMware; achieved **0 post-release critical defects** across three major versions.  
+- **Performance & Scale Testing:** Authored performance test harness in Python for **128-node** clusters on VMware; achieved **0 post-release critical defects** across three major versions.  
 - **Agile Collaboration:** Worked with Developers, Product Owners, and DevOps in two-week Scrum sprints; delivered shippable builds each sprint and maintained **>95 % story acceptance** on first pass.  
 
 ### GIGAMON – Software QA Engineer Intern  
