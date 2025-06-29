@@ -63,8 +63,7 @@ Chennai, India | Mar 2023 – Dec 2023
 - Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset.
   
 **Intrusion Detection on Imbalanced Traffic** (Python, CNN, SVM)  
-- Applied DSSTE oversampling, boosting minority-class recall from **47 % → 90 %** on UNSW-NB15 dataset.  
-- Published reproducible Jupyter notebooks and **Pytest-based automation** for continuous model validation.  
+- Applied DSSTE oversampling, boosting minority-class recall from **47 % → 90 %** on UNSW-NB15 dataset.   
 
 ---
 
