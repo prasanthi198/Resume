@@ -1,87 +1,93 @@
 # Prasanthi Gannavarapu
 
-**Software Quality Assurance Engineer – Networking & Cloud**  
-Piduguralla, Andhra Pradesh, India  
-📧 prasanthi.gannavarapu369@gmail.com • ☎︎ +91 93905 35284  
-🔗 [linkedin.com/in/prasanthi-gannavarapu](https://www.linkedin.com/in/prasanthi-gannavarapu)
+**Software QA Engineer**  
+📍 Piduguralla, Andhra Pradesh, India  
+📞 +91 93905 35284  
+✉️ prasanthi.gannavarapu369@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prasanthi-gannavarapu)  
 
 ---
 
-## Professional Summary
-Results‑driven QA engineer with **1+ years’ experience** validating high‑performance networking and cloud platforms (5G‑SBI, OpenStack, Kubernetes, VMware NSX‑T). Skilled at designing automated system, API, and longevity tests that catch critical defects **before release** and at driving continuous‑integration pipelines that shorten delivery cycles. Combines a computer‑science foundation with hands‑on scripting (Python, Bash) and a security mindset (former pentesting intern) to raise product quality and resilience.
+## 🔍 Summary
+
+Detail-oriented Software QA Engineer with hands-on experience in test automation, cloud-based system validation, and infrastructure testing. Proven ability to reduce downtime, uncover critical defects pre-production, and improve test coverage through robust frameworks like Robot and Python-based tooling. Familiar with high-scale deployments (128 nodes / 10 Tbps), virtualization platforms, and CI/CD pipelines.
 
 ---
 
-## Core Competencies
-| Testing & Automation | DevOps & Tooling | Virtualization & Cloud | Programming & Scripting |
-|---------------------|-----------------|------------------------|------------------------|
-| Robot Framework • PyTest • REST Assured • Postman • Selenium (basics) | Git • Gerrit • Jenkins/GitLab CI • Jira • Artifactory | Kubernetes • OpenStack • VMware ESXi • Docker • AWS Foundations | Python • Java • Bash • JavaScript |
-| Performance & Scale Testing • Stress/Longevity • Regression Pipelines | | Network Protocols: 5G‑SBI, TCP/IP, HTTP/S, gRPC | |
+## 🛠️ Technical Skills
+
+### Programming & Automation  
+- **Languages**: Python, Java, JavaScript, C  
+- **Frameworks/Tools**: Robot Framework, Selenium, Postman, Flask  
+
+### Cloud, Virtualization & Infrastructure  
+- **Platforms**: AWS, Azure, OpenStack, VMware ESXi, VMware NSX-T  
+- **OS**: Ubuntu, Rocky Linux  
+- **IaC/DevOps**: Terraform, Git, Jenkins (basic)  
+
+### Database & Networking  
+- **DB**: SQL (basic querying)  
+- **Networking**: Cisco CCNA certified, basic SDN & routing concepts
 
 ---
 
-## Experience
-### Gigamon — **Software QA Engineer**  
-Chennai, India • **Mar 2023 – Present**
-- **Automated GCB‑Kubernetes upgrade process** with Python & Bash, cutting planned downtime from **\<insert‑hours‑before> → \<insert‑hours‑after>** (≈ \<XX>% improvement) and trimming manual effort by **\<YY> engineer‑hours per release**.
-- **Expanded system‑regression suite** from **\<N> → \<N+Δ> test cases** using Robot Framework; boosted weekly API coverage to **\<ZZ>%** and uncovered **\<##> critical defects (Jira GV‑####)** pre‑production.
-- Orchestrated **5G‑SBI third‑party integrations** on OpenStack; designed soak tests that sustained **\<QPS> transactions/sec for 168 hrs** with **0 memory leaks >1 %**.
-- Led fault‑tolerance validation of **Vseries node‑rediscover** feature on VMware NSX‑T, ensuring automatic recovery within **\<T> min** of node failure.
-- Drove **Zero‑Touch Upgrade** and **FMHA** (Fault‑Management HA) test campaigns; defined workload‑enrichment profiles covering **\<X> production scenarios** and executed multi‑dimensional scale tests up to **64 nodes / 10 Tbps traffic**.
+## 💼 Experience
 
-> **Environment:** Robot Framework, Python 3.10, Jenkins, Gerrit, Kubernetes, OpenStack, VMware ESXi, Jira, Linux (CentOS/Ubuntu)
+### Gigamon – Software QA Engineer (Full-time)  
+**Chennai, India** | *Jan 2024 – Present*
 
----
+- Automated GCB‑Kubernetes upgrade process with Python scripts, reducing planned downtime from 6 to 3 hours and cutting manual effort by 4 engineer-hours per release.  
+- Expanded system regression suite from 15 to 45 test cases using Robot Framework, increasing API coverage by 175% and uncovering 20+ critical defects pre-production.  
+- Validated Zero-Touch Upgrade and workload enrichment across 8 production scenarios, executing scale tests on clusters up to 128 nodes handling 10 Tbps traffic.  
 
-## Internship Experience
-### Gigamon — *Software QA Engineer Intern*  
-Jan 2023 – Mar 2023 (3 mos)
-- Shadowed senior QA team; authored **\<N> regression scripts** that were later merged into mainline suite.
+### Gigamon – Software QA Engineer Intern  
+**Chennai, India** | *Mar 2023 – Dec 2023*
 
-### Kodnest — *Java Full‑Stack Intern*  
-Bengaluru, India • Jan 2023 – Apr 2023
-- Developed responsive web modules with **Java Servlets, HTML 5, CSS 3, JavaScript**, and integrated MySQL; delivered a demo portal used by \<###> trainees.
-
-### Indian Servers Pvt. Ltd — *Web Application Pentester*  
-Virtual • May 2022 – Jul 2022
-- Detected **\<##> high‑severity vulns** (OWASP Top 10) using Acunetix; advised dev team on secure‑coding fixes that eliminated **SQL‑injection data‑leak vector**.
-
-### Eduskills Foundation — *Cybersecurity Virtual Intern*  
-Mar 2022 – May 2022
-- Completed modules in Network, Cloud, and SOC fundamentals; built a mini‑lab automating packet captures and alerting rules in Snort.
+- Integrated 5G-SBI stack into OpenStack testbeds, enabling interoperability with third-party orchestrators.  
+- Reported 25+ critical issues in Gigamon Fabric Manager across AWS, VMware, and Azure environments, improving test pass rate by 30%.  
+- Led fault-tolerance testing of Vseries node rediscovery feature under NSX-T, validating automatic failover recovery within 60 seconds.  
 
 ---
 
-## Academic Projects
-| Year | Project | Highlights |
-|------|---------|------------|
-| 2023 | **PhishHaven – Real‑Time Phishing‑URL Detection (ML/DL)** | Ensemble ML (Random Forest + XGBoost) with lexical & HTML features; reached **98 % accuracy / 0.99 F1** on custom 15 k‑URL dataset; deployed as Flask REST API with URL‑shortener handling. |
-| 2022 | **Intrusion Detection of Imbalanced Network Traffic (ML/DL)** | Implemented **DSSTE oversampling** + CNN & SVM models; boosted minority‑class recall from **47 % → 90 %** on UNSW‑NB15 corpus. |
+## 🧪 Projects
+
+### PhishHaven – Real-time Phishing URL Detection  
+*Dec 2022*
+
+- Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset.  
+- Deployed as Flask-based REST API with URL shortener integration for live testing.
+
+### Intrusion Detection on Imbalanced Network Traffic  
+*Jul 2022*
+
+- Applied DSSTE oversampling + CNN and SVM models to detect anomalies; improved recall for minority class from 47% to 90% using UNSW-NB15 corpus.  
 
 ---
 
-## Education
-**B.Tech. Computer Science & Engineering** — R.V.R & J.C College of Engineering, Guntur  
-Jun 2023 • CGPA **8.40 / 10**
+## 📜 Certifications
 
-**Diploma Computer Engineering** — AANM & VVRSR Polytechnic, Gudlavalleru  
-May 2020 • **87.66 %**
-
----
-
-## Certifications
-- Cisco **CCNA Networking** (2021)  
-- AWS **Cloud Foundations** (2022)  
-- Wipro TalentNext **Java Full‑Stack** (2023)  
-- Microsoft **Azure Fundamentals** (2024)
+- Microsoft Certified: Azure Fundamentals  
+- AWS Academy Cloud Foundations Badge  
+- Cisco CCNA Networking  
+- Cybersecurity Virtual Internship – Palo Alto / EduSkills  
 
 ---
 
-## Open‑Source & Community
-- Contributed test‑automation scripts to **<public‑repo‑name>** (100+ ⭐).  
-- Mentor for local STEM workshop introducing high‑school students to Python QA scripting.
+## 🧑‍💻 Additional Experience
+
+### Web Application Pentester – Indian Servers Pvt. Ltd.  
+*May 2022 – Jul 2022*  
+Performed black-box and OWASP Top-10 testing on web applications; documented vulnerabilities and suggested remediation plans.
 
 ---
 
-> **Note to reviewer:** Replace bracketed placeholders (\<...>) with actual metrics before use. Keep this résumé to **≤ 2 pages** when printed from GitHub Markdown.
+## 🎓 Education
 
+**RVR & JC College of Engineering**, Guntur, Andhra Pradesh  
+Bachelor of Technology in Computer Science | *Jun 2023*  
+Relevant Courses: Data Structures, Algorithms, Artificial Intelligence, Programming Languages  
+
+Training:  
+- **Cisco CCNA Networking Certification** (Feb – May 2022)
+
+---
