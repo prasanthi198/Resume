@@ -7,19 +7,19 @@ LinkedIn: https://www.linkedin.com/in/prasanthi-gannavarapu
 ---
 
 ## PROFESSIONAL SUMMARY  
-Results-driven QA Engineer with 2 + years of experience in **manual testing, automated testing, and quality engineering** for cloud-native networking and security products. Expert in designing **test plans, test cases, regression suites, performance tests, and API tests** within **Agile/Scrum** SDLC. Proven track record of **reducing upgrade downtime 50 %, tripling test coverage, and preventing Sev-1 defect escapes**. Strong hands-on skills with **Python, Robot Framework, Selenium WebDriver, Kubernetes, AWS, Azure, OpenStack, VMware ESXi/NSX-T, Jenkins, Git, Terraform, and Jira**.
+Results-driven QA Engineer with 2 + years of experience in **manual testing, automated testing, and quality engineering** for cloud-native networking and security products. Expert in designing **test plans, test cases, regression suites, performance tests, and API tests** within **Agile/Scrum** SDLC. Proven track record of **reducing upgrade downtime 50 %, tripling test coverage, and preventing P-1 defect escapes**. Strong hands-on skills with **Python, Robot Framework, Kubernetes, AWS, Azure, OpenStack, VMware ESXi/NSX-T, Jenkins, Git, Terraform, and Jira**.
 
 ---
 
 ## TECHNICAL SKILLS  
 
 **Testing & QA:**  
-- Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Performance Testing, Load Testing, Security Testing, Exploratory Testing, Acceptance Testing  
+- Manual Testing, Functional Testing, Regression Testing, Performance Testing, Stress Testing, Security Testing, Exploratory Testing, Acceptance Testing  
 - Test Plan & Test Case Design, Test Strategy, Defect Lifecycle Management, Root Cause Analysis, Quality Metrics & Reporting  
-- Tools: Robot Framework, Selenium WebDriver, Postman, TestRail, Jira, Xray, Charles Proxy  
+- Tools: Robot Framework, Postman, TestRail, Jira  
 
 **Automation & Scripting:**  
-- Python (Pytest, Requests), Java (JUnit), JavaScript, Bash, Shell Scripting  
+- Python (Pytest, Requests), Bash, Shell Scripting  
 - API Automation, CI/CD Pipeline Integration, Data-Driven & Keyword-Driven Frameworks  
 
 **Cloud & Virtualization:**  
