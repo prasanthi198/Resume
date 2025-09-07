@@ -25,7 +25,7 @@ Software QA Engineer with 2+ years of experience in **manual and automation test
 ### **Software QA Engineer – Gigamon**  
 📍 Chennai, India | 🗓️ Jan 2024 – Present  
 
-- Automated Kubernetes upgrade workflows with Python & Robot Framework, reducing downtime by **50%** and saving **4 engineer-hours per release**, enabling faster release cycles.  
+- Automated VMware upgrade workflows with Python & Robot Framework, reducing downtime by **50%** and saving **4 engineer-hours per release**, enabling faster release cycles.  
 - Expanded regression suite from 15 → 45 automated cases, improving **API coverage by 175%** and identifying **20+ P1 defects pre-production**, raising release quality to **98%**.  
 - Designed **performance, scalability, and stress test harness on VMware ESXi clusters (128 nodes)**; achieved **zero post-release critical defects** across 3 major versions.  
 - Validated **OpenStack RHOSP environments** (standard, DPDK, HW-Offload compute nodes), ensuring **fault tolerance, stability, and performance**.  
@@ -50,8 +50,7 @@ Software QA Engineer with 2+ years of experience in **manual and automation test
 📍 India | 🗓️ May 2022 – Jul 2022  
 
 - Conducted penetration testing and vulnerability assessments on web applications using **Acunetix** and other tools.  
-- Identified and reported multiple vulnerabilities including **SQL Injection, XSS, and DoS risks**.  
-- Recommended and verified **security measures** to mitigate threats and strengthen application resilience.  
+- Identified and reported multiple vulnerabilities including **SQL Injection, XSS, and DoS risks**.    
 
 ---
 
