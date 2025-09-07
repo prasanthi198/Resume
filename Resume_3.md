@@ -44,6 +44,8 @@ Software QA Engineer with 2+ years of experience in **manual and automation test
 
 ---
 
+## 🎯 Internships
+
 ### **Web Application Pentester – Indian Servers Pvt. Ltd.**  
 📍 India | 🗓️ May 2022 – Jul 2022  
 
