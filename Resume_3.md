@@ -14,7 +14,7 @@ Software QA Engineer with 2+ years of experience in **manual and automation test
 - **Testing & QA:** Manual Testing, Automation Testing, Regression Testing, Functional Testing, Integration Testing, API Testing, Performance Testing, Scalability Testing, **Stress Testing**, Test Case Design, Test Strategy, Defect Lifecycle Management, Root Cause Analysis  
 - **Automation & Tools:** Python, Robot Framework, Postman, CI/CD (Jenkins, Git), Terraform, Ansible (basic), TestRail, Jira, Kafka, Kibana, Cribl  
 - **Cloud & Virtualization:** **VMware ESXi, VMware NSX-T**, OpenStack (RHOSP – standard, DPDK, HW-Offload compute nodes), Amazon Web Services (EC2, S3, IAM, VPC), Microsoft Azure  
-- **Operating Systems & Databases:** Ubuntu, Rocky Linux, CentOS, Windows, SQL, JSON, YAML, XML  
+- **Operating Systems & Databases:** Ubuntu, Rocky Linux, CentOS, Windows, SQL, JSON, YAML  
 - **Networking:** Cisco CCNA (Routing & Switching), TCP/IP, L2/L3, 5G SBI, DNS, DHCP, Firewalls  
 - **Methodologies:** Agile, Scrum, Continuous Integration, Continuous Delivery (CI/CD), Release Management  
 
