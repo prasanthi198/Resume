@@ -1,96 +1,72 @@
 # Prasanthi Gannavarapu
-
-**Software QA Engineer (Manual + Automation)**  
-📍 Piduguralla, Andhra Pradesh, India  
-📞 +91 93905 35284  
-✉️ prasanthi.gannavarapu369@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prasanthi-gannavarapu)  
+📍 Piduguralla, Andhra Pradesh, India | 📞 +91 93905 35284  
+✉️ prasanthi.gannavarapu369@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/prasanthi-gannavarapu)
 
 ---
 
-## 🔍 Summary
-
-Detail-oriented Software QA Engineer with end-to-end experience in **manual and automated testing** of complex cloud and networking systems. Skilled in exploratory testing, test plan design, regression, and automation scripting using Python and Robot Framework. Proven record in reducing downtime, improving test coverage, and ensuring high-quality releases through meticulous validation and scripting.
+## 🎯 Target Role
+**Software QA Engineer | Senior Software QA Engineer**  
+Skilled in **manual & automation testing**, **cloud platform QA**, and **end-to-end quality assurance** for large-scale systems. Experienced in **OpenStack (RHOSP, DPDK, HW-Offload)**, **test automation frameworks**, and **performance/regression testing** with a strong focus on **scalability, fault tolerance, and release quality**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### QA & Testing  
-- Manual Testing: Test plan design, exploratory testing, functional & regression testing, defect lifecycle  
-- Automation: Python, Robot Framework, Selenium, Postman  
-- Tools: TestRail, Jira, Git, Jenkins (basic)
-
-### Cloud, Virtualization & Infrastructure  
-- Platforms: AWS, Azure, OpenStack, VMware ESXi, VMware NSX-T  
-- OS: Ubuntu, Rocky Linux  
-
-### Programming & Scripting  
-- Languages: Python, Java, JavaScript, C  
-- Web/API: REST, Flask  
-
-### DevOps & IaC  
-- Terraform, Git, CI/CD (basic Jenkins)  
+- **Testing & QA:** Manual Testing, Automation Testing, Regression Testing, Functional Testing, Integration Testing, API Testing, Performance Testing, Scalability Testing, Test Case Design, Test Strategy, Defect Lifecycle Management, Root Cause Analysis  
+- **Automation & Tools:** Python, Robot Framework, Postman, CI/CD (Jenkins, Git), Terraform, Ansible (basic), TestRail, Jira, Kafka, Kibana, Cribl  
+- **Cloud & Virtualization:** OpenStack (RHOSP – standard, DPDK, HW-Offload compute nodes), VMware ESXi, NSX-T, Amazon Web Services (EC2, S3, IAM, VPC), Microsoft Azure  
+- **Operating Systems & Databases:** Ubuntu, Rocky Linux, CentOS, Windows, SQL, JSON, YAML, XML  
+- **Networking:** Cisco CCNA (Routing & Switching), TCP/IP, L2/L3, 5G SBI, DNS, DHCP, Firewalls  
+- **Methodologies:** Agile, Scrum, Continuous Integration, Continuous Delivery (CI/CD), Release Management  
 
 ---
 
 ## 💼 Experience
 
-### Gigamon – Software QA Engineer (Full-time)  
-**Chennai, India** | *Jan 2024 – Present*
+### **Software QA Engineer – Gigamon**  
+📍 Chennai, India | 🗓️ Jan 2024 – Present  
 
-- Performed **manual and automated validation** of GCB‑Kubernetes upgrade workflows; automated upgrade with Python, cutting downtime from 6 → 3 hours and saving 4+ engineer-hours per release.  
-- Expanded system regression suite (manual + automated) from 15 → 45 test cases using Robot Framework, increasing API coverage by 175% and identifying 20+ critical defects pre-production.  
-- Designed test plans and executed **manual scenario testing** for Zero‑Touch Upgrade and workload enrichment across 8 use cases; followed with Python-based scale-test automation on clusters up to 128 nodes / 10 Tbps.  
-
-### Gigamon – Software QA Engineer Intern  
-**Chennai, India** | *Mar 2023 – Dec 2023*
-
-- Conducted **manual test cycles and automated validation** for 5G-SBI OpenStack integrations; ensured third-party orchestrator compatibility.  
-- Logged 25+ bugs from manual exploratory testing across VMware, AWS, and Azure environments; automated key scenarios in Robot Framework, improving stability by 30%.  
-- Executed **manual fault-tolerance tests** for NSX-T node recovery and built Python scripts to validate rediscovery occurred <1 minute after failure.
+- Automated **Kubernetes upgrade workflows** with Python & Robot Framework, reducing downtime by **50%** and saving **4 engineer-hours per release**, enabling faster release cycles.  
+- Expanded **regression suite** from 15 → 45 automated cases, improving **API coverage by 175%** and identifying **20+ P1 defects pre-production**, raising release quality to **98%**.  
+- Designed **performance & scalability test harness** for 128-node VMware clusters; achieved **zero post-release critical defects** across 3 major versions.  
+- Collaborated in **Agile Scrum sprints** with developers, product owners, and DevOps teams; achieved **>95% story acceptance** on first pass.  
+- Validated **OpenStack RHOSP environments** (standard, DPDK, HW-Offload compute nodes), ensuring **fault tolerance, stability, and performance**.  
+- Reproduced and resolved **customer-reported OpenStack issues** in lab environments, reducing **customer downtime by 30%**.  
 
 ---
 
-## 🧪 Projects
+### **Software QA Engineer Intern – Gigamon**  
+📍 Chennai, India | 🗓️ Mar 2023 – Dec 2023  
 
-### PhishHaven – Real-time Phishing URL Detection  
-*Dec 2022*
-
-- Built an ensemble ML model (Random Forest + XGBoost) using lexical and HTML features; achieved 98% accuracy and 0.99 F1-score on a 15k-URL dataset. 
-- Deployed as Flask-based REST API with URL shortener integration for live testing.
-  
-### Intrusion Detection on Imbalanced Network Traffic  
-*Jul 2022*
-
-- Applied DSSTE oversampling + CNN and SVM models to detect anomalies; improved recall for minority class from 47% to 90% using UNSW-NB15 corpus. 
+- Performed **manual and automated testing** on 5G-SBI (Service Based Interface) in OpenStack; achieved **100% interoperability** with third-party orchestration platforms.  
+- Logged **25+ P0/P1 defects** across AWS, VMware, and Azure, improving release stability.  
+- Automated regression testing using Robot Framework, increasing nightly test pass rate from **65% → 95%**.  
+- Developed **NSX-T fault-tolerance test suite** validating node rediscovery in under **60 seconds**, meeting **Tier-1 telecom SLA requirements**.  
 
 ---
 
-## 📜 Certifications
+### **Cybersecurity Virtual Internship – Palo Alto / EduSkills**  
+📍 Remote | 🗓️ Mar 2022 – May 2022  
 
-- Microsoft Certified: Azure Fundamentals  
-- AWS Academy Cloud Foundations Badge  
-- Cisco CCNA Networking  
-- Cybersecurity Virtual Internship – Palo Alto / EduSkills  
-
----
-
-## 🧑‍💻 Additional Experience
-
-### Web Application Pentester – Indian Servers Pvt. Ltd.  
-*May 2022 – Jul 2022*  
-Performed manual testing on OWASP Top 10 vulnerabilities, documented flaws with proof-of-concepts, and proposed mitigation strategies.
+- Gained exposure to **network security, cloud security, and SOC fundamentals** through hands-on labs and simulated attack/defense environments.  
 
 ---
 
 ## 🎓 Education
 
-**RVR & JC College of Engineering**, Guntur, Andhra Pradesh  
-Bachelor of Technology in Computer Science | *Jun 2023*  
-Relevant Courses: Data Structures, Algorithms, Artificial Intelligence, Programming Languages  
+**Bachelor of Technology – Computer Science Engineering**  
+R.V.R & J.C College of Engineering, Guntur | June 2023 | GPA: 8.4/10  
 
-Training:  
-- **Cisco CCNA Networking Certification** (Feb – May 2022)
+**Diploma – Computer Engineering**  
+A.A.N.M & V.V.R.S.R Polytechnic College, Gudlavalleru | May 2020 | 87.66%  
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**  
+- Amazon Web Services: **AWS Academy Cloud Foundations**  
+- Cisco: **CCNA (Cisco Certified Network Associate)**  
+- Palo Alto Networks / EduSkills: **Cybersecurity Virtual Internship**  
 
 ---
