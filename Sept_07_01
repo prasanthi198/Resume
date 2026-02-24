@@ -15,8 +15,8 @@ Software QA Engineer with 2+ years of experience in **manual and automation test
 ## 🛠️ Technical Skills
 
 - **Testing & QA:** Manual Testing, Automation Testing, Regression Testing, Functional Testing, Integration Testing, API Testing, Performance Testing, Scalability Testing, Stress Testing, Test Case Design, Test Strategy, Defect Lifecycle Management, Root Cause Analysis  
-- **Automation & Tools:** Python, Robot Framework, Postman, CI/CD (Jenkins, Git), Terraform, Ansible (basic), TestRail, Jira, Kafka, Kibana, Cribl  
-- **Cloud & Virtualization:** VMware ESXi, VMware NSX-T, OpenStack (RHOSP – standard, DPDK, HW-Offload compute nodes), Amazon Web Services (EC2, S3, IAM, VPC), Microsoft Azure  
+- **Automation & Tools:** Python, Robot Framework, Postman, Terraform, TestRail, Jira, Kafka, Kibana  
+- **Cloud & Virtualization:** VMware ESXi, VMware NSX-T, OpenStack (RHOSP – standard, DPDK, HW-Offload compute nodes) 
 - **Operating Systems & Databases:** Ubuntu, Rocky Linux, CentOS, Windows, SQL, JSON, YAML  
 - **Networking:** Cisco CCNA (Routing & Switching), TCP/IP, L2/L3, 5G SBI, DNS, DHCP, Firewalls  
 - **Methodologies:** Agile, Scrum, Continuous Integration, Continuous Delivery (CI/CD), Release Management  
@@ -43,7 +43,7 @@ Software QA Engineer with 2+ years of experience in **manual and automation test
 📍 Chennai, India | 🗓️ Mar 2023 – Dec 2023  
 
 - Performed **manual and automated testing** on 5G-SBI (Service Based Interface) in OpenStack; achieved **100% interoperability** with third-party orchestration platforms.  
-- Logged **25+ P0/P1 defects** across AWS, VMware, and Azure, improving release stability.  
+- Logged **25+ P0/P1 defects** across AWS, VMware, and Openstack, improving release stability.  
 - Automated regression testing using Robot Framework, increasing nightly test pass rate from **65% to 95%**.  
 - Developed **VMware NSX-T fault-tolerance test suite**, validating node rediscovery in under **60 seconds**, meeting **Tier-1 telecom SLA requirements**.  
 
